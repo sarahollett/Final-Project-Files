@@ -1,3 +1,8 @@
-To include an image file in Twine, make sure that the .png files is in your Twine folder with your story. The Harlowe manual includes instructions for using an image on your computer as a background, but not as a screenshot in your Twine.
+To include an image file in Twine, make sure that the .png files is in your Twine folder with your story. 
+The Harlowe manual includes instructions for using an image on your computer as a background, but not as a screenshot in your Twine.
 
-Use `<img src="Imagetitle.png">`
+Use `<img src="Imagetitle.png">`.
+
+Don't delete stories unless your sure that it was not the version you were editing. 
+When you publish a story to file and open it with a browser, it will create a new HTML file in your Twine Stories file that you name, 
+BUT it wil not merge that new name to the Twine desktop so you can end up with multiple files and no name identifications. 
