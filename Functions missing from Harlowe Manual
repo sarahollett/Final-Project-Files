@@ -5,4 +5,5 @@ Use `<img src="Imagetitle.png">`.
 
 Don't delete stories unless your sure that it was not the version you were editing. 
 When you publish a story to file and open it with a browser, it will create a new HTML file in your Twine Stories file that you name, 
-BUT it wil not merge that new name to the Twine desktop so you can end up with multiple files and no name identifications. 
+BUT it wil not merge that new name to the Twine desktop so you can end up with multiple files and no name identifications. I still 
+find it scary there is no Save button. Word processors like Word have me trained to save every 5 minutes! 
